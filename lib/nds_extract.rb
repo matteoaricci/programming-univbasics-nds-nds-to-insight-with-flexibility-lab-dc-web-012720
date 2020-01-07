@@ -86,7 +86,7 @@ def movies_with_directors_set(source)
       
     end
   
-  
+  arr
   
 end
 
