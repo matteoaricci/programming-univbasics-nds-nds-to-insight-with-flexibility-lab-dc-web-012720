@@ -77,7 +77,7 @@ def movies_with_directors_set(source)
   i = 0 
     while i < source.length
       dir_name = source[i][:name]
-      dir_name => {}
+      :dir_name => {}
       arr.push(dir_name)
       i += 1
     end
